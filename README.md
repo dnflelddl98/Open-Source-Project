@@ -47,6 +47,7 @@
 + 작업 분할 구조도(WBS)
 ![0001](https://user-images.githubusercontent.com/84660344/122668279-3962d000-d1f2-11eb-9f04-d63b3ecb2426.jpg)
 + 개발 일정계획 간트 차트
+![KakaoTalk_20210628_234609415](https://user-images.githubusercontent.com/84660344/123658337-97d02400-d86c-11eb-83a7-71fbdb4da4c0.png)
 
 # Program Configuration Diagram
 
